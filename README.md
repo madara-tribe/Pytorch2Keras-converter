@@ -1,7 +1,7 @@
 # pytorch2keras-converter
 convert Pytorch model to Keras model
 
-# Pytorch FullyConvolutionalResnet18 to keras
+# Pytorch model (FullyConvolutionalResnet18) to keras model
 Below is FCN ResNet18 blocks for both versions – TensorFlow and PyTorch
 
 <img src="https://user-images.githubusercontent.com/48679574/111739153-ea8d5d80-88c5-11eb-97d1-566f95adc9e6.png" width="300px">
