@@ -94,3 +94,8 @@ _______________________________________________________________
 _______________________________________________________________
 
 ```
+
+# References
+[・pytorch2keras](https://github.com/nerox8664/pytorch2keras)
+
+[・FullyConvolutionalResnet18](https://github.com/spmallick/learnopencv)
